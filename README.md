@@ -33,7 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
-## Duplicate the .env.example and set your firebase credentials
+### Duplicate the .env.example and set your firebase credentials
 
 ```sh
 cp .env.example .env
