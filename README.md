@@ -37,3 +37,4 @@ npm run lint
 
 ```sh
 cp .env.example .env
+```
